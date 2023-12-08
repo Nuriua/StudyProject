@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:background="#5BA7CA"
         android:backgroundTint="#6FADDD"
-        android:text="Hello World!"
+        android:text="My Study Project!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
